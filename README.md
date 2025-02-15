@@ -28,7 +28,7 @@ This project is an Online Shop application with a frontend built using Flutter (
 ### Frontend
 
 1. **Clone the repository:**
-   ```sh
+   `sh
    git clone https://github.com/Mohimor/online-shop.git
    cd online-shop/frontend
 **Install dependencies:**
@@ -72,71 +72,72 @@ sh
 
 **Frontend**
 
-*LoginPage.dart: Login page UI and logic
+* LoginPage.dart: Login page UI and logic
 
-*SignupPage.dart: Sign Up page UI and logic
+* SignupPage.dart: Sign Up page UI and logic
 
-*Shopingbasket.dart: Shopping basket UI and logic
+* Shopingbasket.dart: Shopping basket UI and logic
 
-*MainMaterial.dart: Main application entry point
+* MainMaterial.dart: Main application entry point
 
-*CategoriDetailPage.dart: Category detail page UI and logic
+* CategoriDetailPage.dart: Category detail page UI and logic
 
-*descriptionPage.dart: Product description page UI and logic
+* descriptionPage.dart: Product description page UI and logic
 
-*shopbottemna.dart: Bottom navigation bar UI and logic
+* shopbottemna.dart: Bottom navigation bar UI and logic
 
-*ShopingBasketdata.dart: Shopping basket data management
+* ShopingBasketdata.dart: Shopping basket data management
 
-*Shopingbasketitem.dart: Shopping basket item UI and logic
+* Shopingbasketitem.dart: Shopping basket item UI and logic
 
-*Item.dart: Item model for category items
+* Item.dart: Item model for category items
 
-*ItemDetail.dart: ItemDetail model for product details
+* ItemDetail.dart: ItemDetail model for product details
 
 **Backend**
 
-*Main.java: Main entry point for the server
+* Main.java: Main entry point for the server
 
-*Server.java: Server socket management
+* Server.java: Server socket management
 
-*Clihandler.java: Client handler for managing client connections
+* Clihandler.java: Client handler for managing client connections
 
-*Commandmng.java: Command manager for handling client commands
+* Commandmng.java: Command manager for handling client commands
 
-*Authenticator.java: Authentication logic for user login and sign up
+* Authenticator.java: Authentication logic for user login and sign up
 
-*Databasemng.java: Database management for user data and product data
+* Databasemng.java: Database management for user data and product data
 
-*Product.java: Product management logic
+* Product.java: Product management logic
 
-*SQLDatabaseManager.java: Database connection and query execution
+* SQLDatabaseManager.java: Database connection and query execution
 
-Usage
-*User Authentication
-*Users can sign up by providing a username, password, and email.
+***Usage***
 
-*Users can log in using their username and password.
+* User Authentication
+* Users can sign up by providing a username, password, and email.
 
-*The server authenticates users and manages sessions.
+* Users can log in using their username and password.
 
-*Browsing Products
+* The server authenticates users and manages sessions.
 
-*Users can browse products by category.
+* Browsing Products
 
-*Each category displays a list of products with images and names.
+* Users can browse products by category.
 
-Users can view detailed information about each product, including price and description.
+* Each category displays a list of products with images and names.
 
-*Managing Shopping Basket
+* Users can view detailed information about each product, including price and description.
 
-*Users can add products to their shopping basket.
+* Managing Shopping Basket
 
-*Users can view and manage items in their shopping basket.
+* Users can add products to their shopping basket.
 
-*Users can increment or decrement the quantity of each item.
+* Users can view and manage items in their shopping basket.
 
-*Users can remove items from the basket.
+* Users can increment or decrement the quantity of each item.
+
+* Users can remove items from the basket.
 
 *Searching Products
 
