@@ -38,14 +38,14 @@ This project is an Online Shop application with a frontend built using Flutter (
 
 **Run the application:**
 
-  sh
+   ``sh
    flutter run
    
 Backend
 
 **Clone the repository:**
 
- ```sh
+   ``sh
    git clone https://github.com/Mohimor/online-shop.git
    cd online-shop/backend
 
@@ -57,14 +57,14 @@ Create tables for mobiles, laptops, headphones, and tablets with appropriate col
 
 Update database configuration: Update the database connection details in SQLDatabaseManager.java:
 
-java
+  ``java
    private static final String URL = "jdbc:mysql://localhost:3306/products";
    private static final String USER = "root";
    private static final String PASSWORD = "your_password";
    
 **Run the backend server:**
 
-sh
+   ``sh
    javac Main.java
    java Main
    
