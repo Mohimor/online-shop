@@ -28,24 +28,24 @@ This project is an Online Shop application with a frontend built using Flutter (
 ### Frontend
 
 1. **Clone the repository:**
-   `sh
+   ```sh
    git clone https://github.com/Mohimor/online-shop.git
    cd online-shop/frontend
 **Install dependencies:**
 
-sh
+   ``sh
    flutter pub get
 
 **Run the application:**
 
-sh
+  sh
    flutter run
    
 Backend
 
 **Clone the repository:**
 
-sh
+ ```sh
    git clone https://github.com/Mohimor/online-shop.git
    cd online-shop/backend
 
@@ -139,8 +139,8 @@ sh
 
 * Users can remove items from the basket.
 
-*Searching Products
+* Searching Products
 
-*Users can search for products using the search functionality.
+* Users can search for products using the search functionality.
 
-*The search results display matching products with images and names.
+* The search results display matching products with images and names.
